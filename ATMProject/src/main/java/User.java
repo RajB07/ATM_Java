@@ -64,7 +64,7 @@ public class User {
         this.firstName = firstName;
         this.lastName = lastName;
 
-        // Store pin's MD5 hash rather than saving the original pin, SECURITY Reasons bro
+        // Store pin's MD5 hash rather than saving the original pin, SECURITY Reasons 
         try {
             MessageDigest md = MessageDigest.getInstance("MD5");
             this.pinHash = md.digest(pin.getBytes()); // take user's pin and convert it into bytes first // uske baad digest() will produce hash
@@ -89,8 +89,8 @@ public class User {
 
     }
 
-    // So the below method is an example of encapsulation. We cannot keep our ArrayList of accounts public ( security reason hai bro)
-    // so better keep it private and access them using getters and setters like methods. So niche jo hai it is
+    // So the below method is an example of encapsulation. We cannot keep our ArrayList of accounts public ( security reason )
+    // so better keep it private and access them using getters and setters like methods. So below thing is
     //like getters n setters. We are just adding the account using this.
 
     public void addAccount(Account anAcct) {
