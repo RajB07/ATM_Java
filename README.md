@@ -8,3 +8,6 @@ This is a mini project that was made to get a clarity of various basic concepts 
 4) User can transfer money from savings account to checking accoount and vice versa
 5) User can check Accounts Summary 
 
+
+![alt text](http://url/to/uml.png)
+
