@@ -9,3 +9,4 @@ This is a mini project that was made to get a clarity of various basic concepts 
 5) User can check Accounts Summary 
 
 
+![alt text](http://url/to/uml atm project.png)
