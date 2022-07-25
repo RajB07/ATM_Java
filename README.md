@@ -9,5 +9,6 @@ This is a mini project that was made to get a clarity of various basic concepts 
 5) User can check Accounts Summary 
 
 
-![alt text](http://url/to/uml.png)
+![alt text](https://github.com/RajB07/ATM_Java/blob/main/uml.png?raw=true)
+
 
